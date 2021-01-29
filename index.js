@@ -1,1 +1,1 @@
-export * from './axios-cached-dns-resolve'
+module.exports = require("./axios-cached-dns-resolve");
